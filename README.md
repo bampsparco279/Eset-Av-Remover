@@ -187,4 +187,4 @@ This repository serves as the official landing page for ESET AV Remover. The sof
 **Get the most recent version of ESET AV Remover today!**
 
 ---
-**Last updated:** 2026-11-08 19:23:25 UTC
+**Last updated:** 2026-11-08 23:28:05 UTC
